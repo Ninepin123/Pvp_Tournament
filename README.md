@@ -329,7 +329,7 @@ mvn -DskipTests package
 
 ## 授權
 
-MIT(可依需求調整)
+MIT
 
 ## 作者
 
